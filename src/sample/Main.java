@@ -22,7 +22,7 @@ public class Main extends Application {
         letters.setFont(new Font(45));
         //tekst hoogte en breedte instellen
         letters.setX(50);
-        letters.setY(50);
+        letters.setY(70);
         //tekst waarde instellen
         letters.setText("hallo jij daar");
 
